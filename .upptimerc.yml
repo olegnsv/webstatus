@@ -7,8 +7,6 @@ sites:
     url: https://auth.mikonet.org
   - name: Personal Website
     url: https://olegns.space
-    port: 80
-    check: "tcp-ping"
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
