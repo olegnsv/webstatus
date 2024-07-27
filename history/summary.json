@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1714,
-    "timeDay": 1714,
-    "timeWeek": 1714,
-    "timeMonth": 1714,
-    "timeYear": 1714,
+    "time": 12013,
+    "timeDay": 12013,
+    "timeWeek": 12013,
+    "timeMonth": 12013,
+    "timeYear": 12013,
     "dailyMinutesDown": {}
   },
   {
@@ -22,19 +22,19 @@
     "url": "https://olegns.space",
     "icon": "https://icons.duckduckgo.com/ip3/olegns.space.ico",
     "slug": "personal-website",
-    "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "1.08%",
+    "uptimeDay": "1.08%",
+    "uptimeWeek": "1.08%",
+    "uptimeMonth": "1.08%",
+    "uptimeYear": "1.08%",
+    "time": 550,
+    "timeDay": 550,
+    "timeWeek": 550,
+    "timeMonth": 550,
+    "timeYear": 550,
     "dailyMinutesDown": {
-      "2024-07-27": 0
+      "2024-07-27": 4
     }
   }
 ]
