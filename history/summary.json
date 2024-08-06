@@ -4,7 +4,7 @@
     "url": "https://auth.mikonet.org",
     "icon": "https://icons.duckduckgo.com/ip3/auth.mikonet.org.ico",
     "slug": "infrastructure",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 2547,
     "timeMonth": 3604,
     "timeYear": 3604,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-06": 0
+    }
   },
   {
     "name": "Personal Website",
