@@ -4,19 +4,19 @@
     "url": "https://auth.mikonet.org",
     "icon": "https://icons.duckduckgo.com/ip3/auth.mikonet.org.ico",
     "slug": "infrastructure",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3604,
-    "timeDay": 2296,
-    "timeWeek": 2547,
-    "timeMonth": 3604,
-    "timeYear": 3604,
+    "status": "up",
+    "uptime": "99.91%",
+    "uptimeDay": "99.15%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
+    "time": 3519,
+    "timeDay": 2228,
+    "timeWeek": 2498,
+    "timeMonth": 3519,
+    "timeYear": 3519,
     "dailyMinutesDown": {
-      "2024-08-06": 0
+      "2024-08-06": 12
     }
   },
   {
