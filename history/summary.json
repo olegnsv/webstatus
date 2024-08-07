@@ -5,19 +5,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.mikonet.org.ico",
     "slug": "infrastructure",
     "status": "up",
-    "uptime": "99.91%",
-    "uptimeDay": "99.15%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.91%",
-    "uptimeYear": "99.91%",
-    "time": 3519,
-    "timeDay": 2228,
-    "timeWeek": 2498,
-    "timeMonth": 3519,
-    "timeYear": 3519,
-    "dailyMinutesDown": {
-      "2024-08-06": 12
-    }
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 3482,
+    "timeDay": 2501,
+    "timeWeek": 2588,
+    "timeMonth": 3482,
+    "timeYear": 3482,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Personal Website",
@@ -30,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 570,
-    "timeDay": 374,
-    "timeWeek": 567,
-    "timeMonth": 570,
-    "timeYear": 570,
+    "time": 571,
+    "timeDay": 573,
+    "timeWeek": 549,
+    "timeMonth": 571,
+    "timeYear": 571,
     "dailyMinutesDown": {}
   }
 ]
