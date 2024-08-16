@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/auth.mikonet.org.ico",
     "slug": "infrastructure",
     "status": "up",
-    "uptime": "99.59%",
+    "uptime": "99.61%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "98.91%",
-    "uptimeMonth": "99.59%",
-    "uptimeYear": "99.59%",
-    "time": 3079,
-    "timeDay": 2843,
-    "timeWeek": 2312,
-    "timeMonth": 3079,
-    "timeYear": 3079,
+    "uptimeMonth": "99.61%",
+    "uptimeYear": "99.61%",
+    "time": 3102,
+    "timeDay": 3728,
+    "timeWeek": 2545,
+    "timeMonth": 3102,
+    "timeYear": 3102,
     "dailyMinutesDown": {
       "2024-08-09": 110
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 558,
-    "timeDay": 0,
-    "timeWeek": 484,
-    "timeMonth": 558,
-    "timeYear": 558,
+    "time": 553,
+    "timeDay": 440,
+    "timeWeek": 493,
+    "timeMonth": 553,
+    "timeYear": 553,
     "dailyMinutesDown": {}
   }
 ]
