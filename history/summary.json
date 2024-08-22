@@ -25,18 +25,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/olegns.space.ico",
     "slug": "personal-website",
     "status": "up",
-    "uptime": "99.96%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.96%",
-    "uptimeYear": "99.96%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 543,
     "timeDay": 363,
     "timeWeek": 499,
     "timeMonth": 543,
     "timeYear": 543,
-    "dailyMinutesDown": {
-      "2024-08-21": 14
-    }
+    "dailyMinutesDown": {}
   }
 ]
